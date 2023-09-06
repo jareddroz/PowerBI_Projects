@@ -1,0 +1,5 @@
+Crime Analysis : In my project, I undertook a comprehensive analysis of a crime dataset by harnessing the combined power of MySQL and Power BI. This multi-faceted project encompassed data cleaning and rigorous data analysis using MySQL, followed by the creation of compelling visualizations in Power BI. Leveraging MySQL, I extracted meaningful insights from the dataset, and then translated these findings into dynamic visualizations using Power BI. The project includes detailed analyses of the top 10 crimes, as well as the total crimes and arrests, segmented by various dimensions, including month, time of day, district, and location. The project exemplifies my proficiency in both data analysis and data visualization, highlighting my ability to seamlessly integrate multiple tools to deliver actionable insights. It serves as a valuable resource for understanding crime patterns and trends, making it a compelling addition to my portfolio.
+
+Results of My Crime Analysis Project : 
+
+![Crime Analysis](https://github.com/jareddroz/PowerBI_Projects/assets/143546043/11535e22-7eaa-4c2c-b08c-54cc6cdf6ded)
